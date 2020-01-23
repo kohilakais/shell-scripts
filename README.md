@@ -10,3 +10,5 @@ you will find here some getting started shell-scripts
 <h2>Third step </h2> now you can run any one of the scripts  
 
 <h5> exemple <h/5> <h3>$./hello_script.sh </h3>
+  <h5>Licence</h5> @OSSEC
+                    @KAIS_KOHELA
